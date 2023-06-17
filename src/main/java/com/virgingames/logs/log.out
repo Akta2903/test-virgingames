@@ -1,0 +1,374 @@
+2023-06-15 20:06:119 INFO  HomePage :29 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (0cd5100340e09dd2e5464af420c0a370)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 20:06:203 INFO  HomePage :34 - verify logo is Present or not :org.apache.log4j.Logger@629f066f
+2023-06-15 21:06:477 INFO  HomePage :37 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (5042f6aee6ff37044a45d210fb16a9b8)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 21:06:504 INFO  HomePage :42 - verify logo is Present or not :org.apache.log4j.Logger@773dab28
+2023-06-15 21:06:977 INFO  HomePage :37 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (f71bad98b53d563ca9e6201fbc5af16a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 21:06:998 INFO  HomePage :49 - Click on top menu 
+2023-06-15 21:06:304 INFO  HomePage :37 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (001ffe0181b4d07ed598c6f9cdcd44ac)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 21:06:337 INFO  HomePage :49 - Click on top menu 
+2023-06-15 21:06:862 INFO  HomePage :37 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (8b88e7335b9b5c5ed7d5894010f0b097)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 21:06:870 INFO  HomePage :49 - Click on top menu 
+2023-06-15 21:06:91 INFO  HomePage :37 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (a132c51ee8e3751680849953beb846f4)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 21:06:102 INFO  HomePage :49 - Click on top menu 
+2023-06-15 21:06:680 INFO  HomePage :37 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (0df59c5cfca296ee87452b238d477f3d)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 21:06:687 INFO  HomePage :49 - Click on top menu 
+2023-06-15 21:06:163 INFO  HomePage :37 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (3e051136917cf21a0a399f8be1ec64b9)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 21:06:173 INFO  HomePage :49 - Click on top menu 
+2023-06-15 21:06:974 INFO  HomePage :37 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (7dd0e3cc682663c183e8c99753119e46)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 21:06:980 INFO  HomePage :49 - Click on top menu 
+2023-06-15 22:06:852 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (733386c92c422e2ccd16fa509ae1139a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:903 INFO  HomePage :46 - verify logo is Present or not :org.apache.log4j.Logger@4af46df3
+2023-06-15 22:06:413 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (4878b2784525434a4ac598e16e055ad9)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:457 INFO  HomePage :53 - Click on top menu 
+2023-06-15 22:06:614 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (b65525c641119a4b2b27213d2e2af180)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:620 INFO  HomePage :53 - Click on top menu 
+2023-06-15 22:06:872 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (e135a3e46ca41aa1728eb53c58f391d3)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:908 INFO  HomePage :53 - Click on top menu 
+2023-06-15 22:06:618 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (57aa520a042ede24114088f63add8843)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:634 INFO  HomePage :53 - Click on top menu 
+2023-06-15 22:06:912 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (6f01417fc444991faf747c3e2319e2e6)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:955 INFO  HomePage :53 - Click on top menu 
+2023-06-15 22:06:614 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (fc648fefe238f6e4c7d0d54505de4254)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:628 INFO  HomePage :53 - Click on top menu 
+2023-06-15 22:06:626 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (96552a3faff1331a79f6e95259c61e04)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:656 INFO  HomePage :46 - verify logo is Present or not :org.apache.log4j.Logger@393881f0
+2023-06-15 22:06:543 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (c5e692de37fd75b3b661a6bf0262a7e1)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:585 INFO  HomePage :53 - Click on top menu 
+2023-06-15 22:06:587 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (d82bd82f9e099f00dbfc0637f6fcd9b7)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:599 INFO  HomePage :53 - Click on top menu 
+2023-06-15 22:06:588 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (ff994700da00b95e41fbdd9defb7bbfc)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:598 INFO  HomePage :53 - Click on top menu 
+2023-06-15 22:06:420 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (738f1e9c3fa63cce8d9780abbf130bd3)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:429 INFO  HomePage :53 - Click on top menu 
+2023-06-15 22:06:50 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (81635c5c17e9e09d4cac09d14928553a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:66 INFO  HomePage :53 - Click on top menu 
+2023-06-15 22:06:367 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (5ecfa5d168247370c14343830cbc0811)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:377 INFO  HomePage :53 - Click on top menu 
+2023-06-15 22:06:273 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (47e5c883058ff61f98f842b86e3eef0a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:309 INFO  HomePage :46 - verify logo is Present or not :org.apache.log4j.Logger@4af46df3
+2023-06-15 22:06:103 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (a76a62b1ee3cae6b5085582e317e4023)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:126 INFO  HomePage :53 - Click on top menu 
+2023-06-15 22:06:347 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (a7dc1e0f705f48964811cee588cdfcb1)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:362 INFO  HomePage :53 - Click on top menu 
+2023-06-15 22:06:577 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (165609823a4e08d401c72c0c5fb5c422)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 22:06:603 INFO  HomePage :53 - Click on top menu 
+2023-06-15 23:06:101 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (2d89361f17d11075c0348ef8a138fc80)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 23:06:123 INFO  HomePage :53 - Click on top menu 
+2023-06-15 23:06:564 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (adb44debdb6245670c97c1c3faad4426)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 23:06:572 INFO  HomePage :53 - Click on top menu 
+2023-06-15 23:06:609 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (6a7ef0ead98d252d6ed28e7b4042c76a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 23:06:617 INFO  HomePage :53 - Click on top menu 
+2023-06-15 23:06:537 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (4bbe23a2513eb89453ddf2669c81d449)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 23:06:553 INFO  HomePage :53 - Click on top menu 
+2023-06-15 23:06:483 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (81b21b5c83ff8da023018d9ec966efee)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 23:06:487 INFO  HomePage :53 - Click on top menu 
+2023-06-15 23:06:619 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (1f0280f6c9174d8a675c4fa20945875f)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-15 23:06:626 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:86 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (e1ba6f11da5abd08874d82ca64ca57fa)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:116 INFO  HomePage :46 - verify logo is Present or not :org.apache.log4j.Logger@1ecfcbc9
+2023-06-16 00:06:601 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (6a2e383672bd687eefb71cf3ecfff7b4)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:619 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:802 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (e5c84e45eb3e5bda76d3e172fc6d5e91)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:812 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:480 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (cd039e5a571019d5f42a18af6127c79c)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:495 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:884 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (daa86c6b29e35844aafea5f0779c9a41)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:896 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:856 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (bd95c6a5dd193bdf1a661600eeb6f588)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:874 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:974 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (fff89e16c442332cafa683a4e5c5922a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:985 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:283 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (a0aa242610f410e94d0f438bbe1d935d)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:303 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:801 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (2afc639e4fd8d3487297be572ea98bc8)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:808 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:140 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (30818f05ef38ba8c37b4cf2f2d19d61b)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:149 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:851 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (c056fe381fa1e370f80c7624c0092a04)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:865 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:81 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (466501c643e5f02c8728a2a58492eb1e)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:89 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:497 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (b7aaa733d989267e5d59a4b0e5e029b5)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:501 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:938 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (c3c562d0eef740d4c7e2e9f19ef297ad)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:959 INFO  HomePage :46 - verify logo is Present or not :org.apache.log4j.Logger@4af46df3
+2023-06-16 00:06:98 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (8521dded111e01a0a90025729d722a8c)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:115 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:583 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (c003356092f3016ba840d52fde09064d)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:607 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:641 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (e5a8ec072d8db145811b1824bf2d6ec8)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:665 INFO  HomePage :53 - Click on top menu 
+2023-06-16 00:06:483 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (47031fd2efbe503186b449b32828cc34)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:507 INFO  HomePage :56 - Click on top menu 
+2023-06-16 00:06:800 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (40209405fca29adde109a10b323607d6)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:814 INFO  HomePage :56 - Click on top menu 
+2023-06-16 00:06:707 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (ab28b0d52ed2a5310e73aae5155943ed)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:714 INFO  HomePage :56 - Click on top menu 
+2023-06-16 00:06:773 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (bfc2e3536051b23e3f9129393ccdbd9b)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:848 INFO  HomePage :56 - Click on top menu 
+2023-06-16 00:06:933 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (642994366fa2690c40278d98ea7b592b)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:939 INFO  HomePage :56 - Click on top menu 
+2023-06-16 00:06:529 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (e65fe78a194c00ecf1bdf8fa8d75d377)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:535 INFO  HomePage :56 - Click on top menu 
+2023-06-16 00:06:907 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (e5e913248a12f553595464e9cb6a5613)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:928 INFO  HomePage :49 - verify logo is Present or not :org.apache.log4j.Logger@1ecfcbc9
+2023-06-16 00:06:147 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (0b6385a15bf5c4f578ebce589ba18c93)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:174 INFO  HomePage :56 - Click on top menu 
+2023-06-16 00:06:751 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (30a070f9e46e344c96417c7e9bd1fca6)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:760 INFO  HomePage :56 - Click on top menu 
+2023-06-16 00:06:988 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (56dcdda7a335f12916020c26b48db3ea)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:996 INFO  HomePage :56 - Click on top menu 
+2023-06-16 00:06:548 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (4b2744e7644be5d0522671e652a4b3c1)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:571 INFO  HomePage :49 - verify logo is Present or not :org.apache.log4j.Logger@4af46df3
+2023-06-16 00:06:896 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (f2cf640db646f2ccf7b2ed180e6b28e6)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 00:06:919 INFO  HomePage :56 - Click on top menu 
+2023-06-16 01:06:408 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (b5dab0e1b792baf2682c552b1eff87e4)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:428 INFO  HomePage :56 - Click on top menu 
+2023-06-16 01:06:932 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (fe0b69ba583378c3871087fb787215c2)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:938 INFO  HomePage :56 - Click on top menu 
+2023-06-16 01:06:332 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (13fdb7960c1c5bbb1b1b1f19fabb3ff6)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:345 INFO  HomePage :56 - Click on top menu 
+2023-06-16 01:06:241 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (2a9940fa32182592785b976dc9697c4d)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:249 INFO  HomePage :56 - Click on top menu 
+2023-06-16 01:06:312 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (ef03b2b6ca45977a99d96d894351a29c)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:512 INFO  HomePage :56 - Click on top menu 
+2023-06-16 01:06:349 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (556a812af3456e170fc5bd0e51d77963)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:359 INFO  HomePage :56 - Click on top menu 
+2023-06-16 01:06:495 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (29a2c73d092e24180b9397f09e425f88)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:513 INFO  HomePage :49 - verify logo is Present or not :org.apache.log4j.Logger@415156bf
+2023-06-16 01:06:33 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (af76271128a96362a818bf450e20ca24)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:59 INFO  HomePage :56 - Click on top menu 
+2023-06-16 01:06:703 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (75c6476718e7ea1a69378e5320fd0068)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:723 INFO  HomePage :56 - Click on top menu 
+2023-06-16 01:06:651 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (fb248b2a761c19baa67708399d7f6a3a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:660 INFO  HomePage :56 - Click on top menu 
+2023-06-16 01:06:969 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (83bcc7f68346c9984fa3df9e15c374f6)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:980 INFO  HomePage :56 - Click on top menu 
+2023-06-16 01:06:146 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (eb6903c17967480e3de79f3c8ea6688a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:153 INFO  HomePage :56 - Click on top menu 
+2023-06-16 01:06:112 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (cf5ff110b9f4dcfb8c7a0b46dbc60a71)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:126 INFO  HomePage :56 - Click on top menu 
+2023-06-16 01:06:102 INFO  HomePage :43 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (a492733700509002dddda39c73ea51c6)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:127 INFO  HomePage :48 - verify logo is Present or not :org.apache.log4j.Logger@4158debd
+2023-06-16 01:06:771 INFO  HomePage :43 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (682bae0a7535fcd816a1c2c05d111dc8)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:790 INFO  HomePage :55 - Click on top menu 
+2023-06-16 01:06:577 INFO  HomePage :43 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (97c84e545195b5fe80aad344d626794b)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:587 INFO  HomePage :55 - Click on top menu 
+2023-06-16 01:06:776 INFO  HomePage :43 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (fe3245e0d413b0a35f584a08c2feb129)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:797 INFO  HomePage :55 - Click on top menu 
+2023-06-16 01:06:712 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (d9787d5c406c0d9191d95e5d6f158c02)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:730 INFO  HomePage :49 - verify logo is Present or not :org.apache.log4j.Logger@4158debd
+2023-06-16 01:06:711 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (31e08a9a29156d83ebb00af109b881d1)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:733 INFO  HomePage :56 - Click on top menu 
+2023-06-16 01:06:443 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (df2011ac79f0fea439be2e16be6ba97a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 01:06:450 INFO  HomePage :56 - Click on top menu 
+2023-06-16 20:06:374 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (f11a62efe092ce15281c498db039a25f)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 20:06:405 INFO  HomePage :49 - verify logo is Present or not :org.apache.log4j.Logger@3a627c80
+2023-06-16 20:06:356 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (acb7a21c0fc9ef543194f4bd89f8b747)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 20:06:393 INFO  HomePage :56 - Click on top menu 
+2023-06-16 20:06:154 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (a084ac8d26711b098680431f3e947dc8)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 20:06:165 INFO  HomePage :56 - Click on top menu 
+2023-06-16 20:06:75 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (4058e61ec702fcc9472b8530ea127543)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 20:06:101 INFO  HomePage :56 - Click on top menu 
+2023-06-16 21:06:180 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (da38db0089092b0fc38f570e34124977)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:208 INFO  HomePage :49 - verify logo is Present or not :org.apache.log4j.Logger@4af46df3
+2023-06-16 21:06:835 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (85cce0f3fbc2ab87a9ef90082887798b)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:885 INFO  HomePage :56 - Click on top menu 
+2023-06-16 21:06:913 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (8c90c4ea680cce2c6cbec52208c02422)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:928 INFO  HomePage :56 - Click on top menu 
+2023-06-16 21:06:57 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (a606ea754a6c2c9b4e95bcd408305a0e)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:73 INFO  HomePage :56 - Click on top menu 
+2023-06-16 21:06:940 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (e7205f2bdeb52299e6ab5ab0a64d531a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:991 INFO  HomePage :49 - verify logo is Present or not :org.apache.log4j.Logger@773dab28
+2023-06-16 21:06:165 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (7ce07d7a6eaf6def66eaea92e49cca9e)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:199 INFO  HomePage :56 - Click on top menu 
+2023-06-16 21:06:676 INFO  HomePage :44 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (cbc71023e177d04f841ca9bd1dc6377c)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:685 INFO  HomePage :56 - Click on top menu 
+2023-06-16 21:06:45 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (bd4b9c1f14fd2bfc69c73c5af9657edf)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:73 INFO  HomePage :46 - verify logo is Present or not :org.apache.log4j.Logger@660591fb
+2023-06-16 21:06:636 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (422b2916db02ac9a8ccc576b601173fc)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:659 INFO  HomePage :53 - Click on top menu 
+2023-06-16 21:06:191 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (0ee1e5d42b0222f9e606fdaf002e851b)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:209 INFO  HomePage :53 - Click on top menu 
+2023-06-16 21:06:482 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (97f955109d3656566286f86aa7154f19)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:503 INFO  HomePage :53 - Click on top menu 
+2023-06-16 21:06:486 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (13971295caa28f75238b031015cb68f1)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:494 INFO  HomePage :53 - Click on top menu 
+2023-06-16 21:06:430 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (8aa08264deffa4c8c90ea3aaaac9ae5f)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:439 INFO  HomePage :53 - Click on top menu 
+2023-06-16 21:06:412 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (e12c0bf264e40ae56887b5c8650e79e0)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:446 INFO  HomePage :53 - Click on top menu 
+2023-06-16 21:06:860 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (b21319cfc5b77a9bd6b242c6d1a9db7d)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 21:06:889 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:844 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (22797688287e045813e1ef7f395e8598)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:867 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:393 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (80857bbdf11cd419d64203d187a4bdaf)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:403 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:903 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (22e4591813b124f43ee43bf580543992)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:937 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:769 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (8149796da2c26f1816e42baeb81b2d07)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:793 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:137 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (ed7329c50a735ca668e54169f5ff8e09)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:144 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:502 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (2896a1a2f0cfe57342fdd80be1359af4)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:529 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:78 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (8ce6e8a4363e24a0caa64696ecdd3ccd)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:85 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:89 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (44c0a465dbe470307545c25158b18a7a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:100 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:816 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (9afda0aba79c16792160497f88badf51)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:822 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:452 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (675b4df0219b23aab07a61c2787e802d)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:488 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:149 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (b71264e55cf71a1b3f7ea2f61d23cfc9)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:155 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:852 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (503c16e69d0f0e50221e55fd198297e0)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:857 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:506 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (85affaec56002922bfd66ccd46b97a4c)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:533 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:535 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (49c66a21ab1ff32ceda4c31996648594)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:548 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:223 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (0f1b46de3bd08ec3003fb40d04cece77)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:235 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:937 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (e93ff92170af5521d8ee843e46f69d61)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:952 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:974 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (1529ec5372448fbf9236a47ea57d91f9)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:997 INFO  HomePage :53 - Click on top menu 
+2023-06-16 22:06:596 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (0012d97a0341ff5a99a82f0f634d8585)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 22:06:602 INFO  HomePage :53 - Click on top menu 
+2023-06-16 23:06:312 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (b70ec91dfb7a8756ad2aa8b215068e1b)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:335 INFO  HomePage :46 - verify logo is Present or not :org.apache.log4j.Logger@4d23015c
+2023-06-16 23:06:795 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (514ca0033bc7f89e94a0b5a273dedceb)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:816 INFO  HomePage :53 - Click on top menu 
+2023-06-16 23:06:800 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (ff8f19fe80340b693fcb045113dab544)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:824 INFO  HomePage :53 - Click on top menu 
+2023-06-16 23:06:691 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (5810e64a282ab5a633e6be71e95a7145)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:704 INFO  HomePage :53 - Click on top menu 
+2023-06-16 23:06:419 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (61c0b6571f1a5ae60eb7c73772d0491d)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:431 INFO  HomePage :53 - Click on top menu 
+2023-06-16 23:06:276 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (a801cace894935b8e735e8270833f8a6)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:310 INFO  HomePage :53 - Click on top menu 
+2023-06-16 23:06:338 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (90fb852af31f6b67fe4a1293c98c1afc)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:360 INFO  HomePage :53 - Click on top menu 
+2023-06-16 23:06:780 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (7b0ab2d4748a2ff1f925743e54981d6c)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:791 INFO  HomePage :53 - Click on top menu 
+2023-06-16 23:06:604 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (5ce059c08d1276ad58978c5f655ca4f3)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:609 INFO  HomePage :53 - Click on top menu 
+2023-06-16 23:06:282 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (5c7541502b155b3ea90043f0fb78f695)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:293 INFO  HomePage :53 - Click on top menu 
+2023-06-16 23:06:695 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (190367a6e3821348beebd12d1a4586db)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:711 INFO  HomePage :53 - Click on top menu 
+2023-06-16 23:06:819 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (034b155fee8c2ee55fe030eac2be1317)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:94 INFO  HomePage :53 - Click on top menu 
+2023-06-16 23:06:656 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (b94f655390a2b46916d347faca9bab88)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:693 INFO  HomePage :53 - Click on top menu 
+2023-06-16 23:06:491 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (ac4a10f2155e755780586164ac27eea7)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:509 INFO  HomePage :46 - verify logo is Present or not :org.apache.log4j.Logger@5b56b654
+2023-06-16 23:06:814 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (a8e8b021d66130314d19e3a3cb7cd0db)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-16 23:06:846 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:692 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (3bcb060dddfdca601f536d1295be7621)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:726 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:886 INFO  HomePage :59 - Click on top menu Online Slots
+2023-06-17 00:06:229 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (ce8ad1acf26f78b9e31d2ffe49c213e0)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:253 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:380 INFO  HomePage :59 - Click on top menu Online Slots
+2023-06-17 00:06:704 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (4938d06d797601fe5c00a04a7019829c)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:734 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:904 INFO  HomePage :59 - Click on top menu Online Slots
+2023-06-17 00:06:417 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (b85cfaf9dcdecf3d0b65ecde035fbd3b)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:426 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:617 INFO  HomePage :59 - Click on top menu Live Casino
+2023-06-17 00:06:07 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (7f9eacd6c8a1ecd860e922947b064bfb)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:125 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:368 INFO  HomePage :59 - Click on top menu Online Slots
+2023-06-17 00:06:893 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (9efefc847ce64b56d9a14979f7d8ec93)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:901 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:115 INFO  HomePage :59 - Click on top menu Live Casino
+2023-06-17 00:06:339 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (8b2cee6f91a47de52406d674913bf9e6)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:346 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:509 INFO  HomePage :59 - Click on top menu Live Casino
+2023-06-17 00:06:869 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (25a38402b0ecca09e1306fdf6347a545)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:878 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:76 INFO  HomePage :59 - Click on top menu Slingo
+2023-06-17 00:06:532 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (b457423d80cf721894f3c5ccdec3e870)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:544 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:684 INFO  HomePage :59 - Click on top menu Online Bingo
+2023-06-17 00:06:708 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (69d0081a43de4c0e40ec59f289165e96)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:737 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:141 INFO  HomePage :59 - Click on top menu Online Slots
+2023-06-17 00:06:905 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (69d0081a43de4c0e40ec59f289165e96)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:964 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (69d0081a43de4c0e40ec59f289165e96)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:635 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (57631e9b05cde1a2d197aa3aca3d15d4)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:645 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:25 INFO  HomePage :59 - Click on top menu Live Casino
+2023-06-17 00:06:637 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (57631e9b05cde1a2d197aa3aca3d15d4)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:222 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (a9660135658fd202e478ca80b677e61e)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:251 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:380 INFO  HomePage :59 - Click on top menu Online Slots
+2023-06-17 00:06:435 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (a9660135658fd202e478ca80b677e61e)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:533 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (a9660135658fd202e478ca80b677e61e)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:155 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (9f979295af255be21742f1578946312a)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:178 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:382 INFO  HomePage :59 - Click on top menu Live Casino
+2023-06-17 00:06:797 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (9f979295af255be21742f1578946312a)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:847 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (9f979295af255be21742f1578946312a)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:262 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (260be002ca5e25ae958656e516a0d4ab)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:275 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:485 INFO  HomePage :59 - Click on top menu Live Casino
+2023-06-17 00:06:425 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (260be002ca5e25ae958656e516a0d4ab)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:467 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (260be002ca5e25ae958656e516a0d4ab)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:216 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (9e4fc2eee55cad42339f7b7ab1d2c4e7)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:244 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:369 INFO  HomePage :59 - Click on top menu Slingo
+2023-06-17 00:06:981 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (9e4fc2eee55cad42339f7b7ab1d2c4e7)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:118 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (9e4fc2eee55cad42339f7b7ab1d2c4e7)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:747 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (514c904bb79c489ade4a82e43a516b4b)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:756 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:953 INFO  HomePage :59 - Click on top menu Online Bingo
+2023-06-17 00:06:105 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (514c904bb79c489ade4a82e43a516b4b)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:142 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (514c904bb79c489ade4a82e43a516b4b)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:788 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (3bba0c9378ecc6a785617df52f4ffa79)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:812 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:32 INFO  HomePage :59 - Click on top menu Free Games
+2023-06-17 00:06:494 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (3bba0c9378ecc6a785617df52f4ffa79)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:555 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (3bba0c9378ecc6a785617df52f4ffa79)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:793 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (6f40aeff4b994669e216b420ef48a28c)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 00:06:815 INFO  HomePage :53 - Click on top menu 
+2023-06-17 00:06:53 INFO  HomePage :59 - Click on top menu Poker
+2023-06-17 00:06:580 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (6f40aeff4b994669e216b420ef48a28c)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 00:06:643 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (6f40aeff4b994669e216b420ef48a28c)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 12:06:763 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (28ac0ce62eabb17013522b4d994b1e9f)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 12:06:805 INFO  HomePage :53 - Click on top menu 
+2023-06-17 12:06:928 INFO  HomePage :59 - Click on top menu Online Slots
+2023-06-17 12:06:824 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (28ac0ce62eabb17013522b4d994b1e9f)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 12:06:860 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (28ac0ce62eabb17013522b4d994b1e9f)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 12:06:130 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (2f59d2cb1a5a5719e17227f719477217)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 12:06:144 INFO  HomePage :53 - Click on top menu 
+2023-06-17 12:06:245 INFO  HomePage :59 - Click on top menu Live Casino
+2023-06-17 12:06:247 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (2f59d2cb1a5a5719e17227f719477217)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 12:06:536 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (2f59d2cb1a5a5719e17227f719477217)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 12:06:387 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (fbbeb1d4de8880c7c6423ba182604f5b)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 12:06:402 INFO  HomePage :53 - Click on top menu 
+2023-06-17 12:06:489 INFO  HomePage :59 - Click on top menu Live Casino
+2023-06-17 12:06:169 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (fbbeb1d4de8880c7c6423ba182604f5b)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 12:06:197 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (fbbeb1d4de8880c7c6423ba182604f5b)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 12:06:850 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (2c9ac8540c03210bc4715340f7320d62)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 12:06:861 INFO  HomePage :53 - Click on top menu 
+2023-06-17 12:06:983 INFO  HomePage :59 - Click on top menu Slingo
+2023-06-17 12:06:949 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (2c9ac8540c03210bc4715340f7320d62)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 12:06:980 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (2c9ac8540c03210bc4715340f7320d62)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 12:06:279 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (3cb0b06a091440f2c1997f75437125f0)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 12:06:288 INFO  HomePage :53 - Click on top menu 
+2023-06-17 12:06:396 INFO  HomePage :59 - Click on top menu Online Bingo
+2023-06-17 12:06:733 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (3cb0b06a091440f2c1997f75437125f0)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 12:06:765 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (3cb0b06a091440f2c1997f75437125f0)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 12:06:306 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (55162a03de4072eb31996492ad2c4819)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 12:06:320 INFO  HomePage :53 - Click on top menu 
+2023-06-17 12:06:478 INFO  HomePage :59 - Click on top menu Free Games
+2023-06-17 12:06:497 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (55162a03de4072eb31996492ad2c4819)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 12:06:522 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (55162a03de4072eb31996492ad2c4819)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 12:06:893 INFO  HomePage :41 - Clicking on acceptCookie: [[ChromeDriver: chrome on WINDOWS (fc25fb3d562c3e420a04c61c1509a306)] -> xpath: //label[normalize-space()='Accept']]
+2023-06-17 12:06:908 INFO  HomePage :53 - Click on top menu 
+2023-06-17 12:06:163 INFO  HomePage :59 - Click on top menu Poker
+2023-06-17 12:06:882 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (fc25fb3d562c3e420a04c61c1509a306)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]
+2023-06-17 12:06:923 INFO  HomePage :71 - Verify the text [[ChromeDriver: chrome on WINDOWS (fc25fb3d562c3e420a04c61c1509a306)] -> xpath: //section[@class='StyledContent-sc-rrhwky-0 flIPPD']/h1]

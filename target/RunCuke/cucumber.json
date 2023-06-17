@@ -1,0 +1,740 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9716864600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 20,
+        "name": "Verify the top menu on the homepage",
+        "description": "",
+        "id": "homepage-functionality;verify-the-top-menu-on-the-homepage;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1523831000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 205361300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I am on homepage",
+            "match": {
+              "location": "HomePageSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 289720900,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on Accept Cookies",
+            "match": {
+              "location": "HomePageSteps.iClickOnAcceptCookies()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2003018900,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on menu \"Online Slots\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Online Slots",
+                  "offset": 17
+                }
+              ],
+              "location": "HomePageSteps.iClickOnMenu(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 84685900,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Text is displayed on the page is \"Online Slots\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Online Slots",
+                  "offset": 34
+                }
+              ],
+              "location": "HomePageSteps.textIsDisplayedOnThePageIs(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6595790500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 21,
+        "name": "Verify the top menu on the homepage",
+        "description": "",
+        "id": "homepage-functionality;verify-the-top-menu-on-the-homepage;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 937620400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 26200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I am on homepage",
+            "match": {
+              "location": "HomePageSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 128640300,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on Accept Cookies",
+            "match": {
+              "location": "HomePageSteps.iClickOnAcceptCookies()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 228996200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on menu \"Live Casino\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Live Casino",
+                  "offset": 17
+                }
+              ],
+              "location": "HomePageSteps.iClickOnMenu(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1189339200,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Text is displayed on the page is \"Live Casino\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Live Casino",
+                  "offset": 34
+                }
+              ],
+              "location": "HomePageSteps.textIsDisplayedOnThePageIs(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4736528300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 22,
+        "name": "Verify the top menu on the homepage",
+        "description": "",
+        "id": "homepage-functionality;verify-the-top-menu-on-the-homepage;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 897390900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 24200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I am on homepage",
+            "match": {
+              "location": "HomePageSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 145853800,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on Accept Cookies",
+            "match": {
+              "location": "HomePageSteps.iClickOnAcceptCookies()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 341924400,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on menu \"Casino\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Casino",
+                  "offset": 17
+                }
+              ],
+              "location": "HomePageSteps.iClickOnMenu(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 470248600,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Text is displayed on the page is \"Casino\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Casino",
+                  "offset": 34
+                }
+              ],
+              "location": "HomePageSteps.textIsDisplayedOnThePageIs(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4598707000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "Verify the top menu on the homepage",
+        "description": "",
+        "id": "homepage-functionality;verify-the-top-menu-on-the-homepage;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 941533500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 23800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I am on homepage",
+            "match": {
+              "location": "HomePageSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 139929100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on Accept Cookies",
+            "match": {
+              "location": "HomePageSteps.iClickOnAcceptCookies()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 258743800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on menu \"Slingo\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Slingo",
+                  "offset": 17
+                }
+              ],
+              "location": "HomePageSteps.iClickOnMenu(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 870044200,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Text is displayed on the page is \"Slingo\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Slingo",
+                  "offset": 34
+                }
+              ],
+              "location": "HomePageSteps.textIsDisplayedOnThePageIs(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5193971900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 24,
+        "name": "Verify the top menu on the homepage",
+        "description": "",
+        "id": "homepage-functionality;verify-the-top-menu-on-the-homepage;;6",
+        "after": [
+          {
+            "result": {
+              "duration": 954385800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 514900,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I am on homepage",
+            "match": {
+              "location": "HomePageSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 135079200,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on Accept Cookies",
+            "match": {
+              "location": "HomePageSteps.iClickOnAcceptCookies()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 204515500,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on menu \"Online Bingo\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Online Bingo",
+                  "offset": 17
+                }
+              ],
+              "location": "HomePageSteps.iClickOnMenu(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 289192700,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Text is displayed on the page is \"Online Bingo\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Online Bingo",
+                  "offset": 34
+                }
+              ],
+              "location": "HomePageSteps.textIsDisplayedOnThePageIs(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5409672600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 25,
+        "name": "Verify the top menu on the homepage",
+        "description": "",
+        "id": "homepage-functionality;verify-the-top-menu-on-the-homepage;;7",
+        "after": [
+          {
+            "result": {
+              "duration": 944558900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 20500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I am on homepage",
+            "match": {
+              "location": "HomePageSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 148589700,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on Accept Cookies",
+            "match": {
+              "location": "HomePageSteps.iClickOnAcceptCookies()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 966372300,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on menu \"Free Games\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Free Games",
+                  "offset": 17
+                }
+              ],
+              "location": "HomePageSteps.iClickOnMenu(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 251537600,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Text is displayed on the page is \"Free Games\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Free Games",
+                  "offset": 34
+                }
+              ],
+              "location": "HomePageSteps.textIsDisplayedOnThePageIs(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5261248000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "Verify the top menu on the homepage",
+        "description": "",
+        "id": "homepage-functionality;verify-the-top-menu-on-the-homepage;;8",
+        "after": [
+          {
+            "result": {
+              "duration": 933760000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 27100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I am on homepage",
+            "match": {
+              "location": "HomePageSteps.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 137093600,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I click on Accept Cookies",
+            "match": {
+              "location": "HomePageSteps.iClickOnAcceptCookies()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 671778200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I click on menu \"Poker\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Poker",
+                  "offset": 17
+                }
+              ],
+              "location": "HomePageSteps.iClickOnMenu(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 375172900,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "Text is displayed on the page is \"Poker\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Poker",
+                  "offset": 34
+                }
+              ],
+              "location": "HomePageSteps.textIsDisplayedOnThePageIs(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "HomePage functionality",
+    "description": "\r\nAs a user, I want to verify HomePage functionality",
+    "id": "homepage-functionality",
+    "keyword": "Feature",
+    "uri": "homepage.feature"
+  }
+]
